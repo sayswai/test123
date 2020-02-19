@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "$(whoami) mee!" > /tmp/whoareyou
-echo "ISTILL FAILED ON PURPOSE:("
-exit 1
+echo "I AM PASSING NOW"
+exit 0
