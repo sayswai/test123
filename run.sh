@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "$(whoami) mee!" > /tmp/whoareyou
-echo "I AM PASSING NOW"
+echo 'fail on purpose' && exit 1
 exit 0
