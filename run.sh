@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "$(whoami) me!" > /tmp/whoareyou
+echo "$(whoami) mee!" > /tmp/whoareyou
 exit 0
