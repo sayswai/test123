@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "$(whoami) mee!" > /tmp/whoareyou
-echo "pasing"
+whoami
+exit 1
 exit 0
