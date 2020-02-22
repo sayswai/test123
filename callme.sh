@@ -1,3 +1,3 @@
 #!/bin/bash
 echo 'dont call me'
-exit 1
+exit 0
