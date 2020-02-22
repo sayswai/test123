@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "$(whoami) mee!" > /tmp/whoareyou
-exit 0
+bash callme.sh
+exit $?
