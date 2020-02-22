@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "$(whoami) mee!" > /tmp/whoareyou
-echo "Passed" 
+echo "I am failing again" && exit 2
 exit 0
